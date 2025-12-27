@@ -1,4 +1,4 @@
-# UIU Data Mining Research 📊
+# UIU Data Mining beginner to advanced 📊
 
 **Author:** Md Saib Hossain  
 **Institution:** United International University (UIU)  
@@ -27,7 +27,7 @@ This repository documents my research and coursework for the Data Mining curricu
 ## 🛠 Tech Stack
 - **Languages:** Python (Java for specific algorithm implementations)
 - **Libraries:** PyTorch, Scikit-Learn, Pandas, NumPy
-- **Tools:** Jupyter Lab, Hugging Face
+- **Tools:** Jupyter Lab, Kaggle, Google Colab
 
 ## 📫 Contact
 As an AI Researcher, I am always open to collaboration.
