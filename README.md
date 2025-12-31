@@ -10,7 +10,9 @@ This repository documents my research and coursework for the Data Mining curricu
 ## 🚀 Roadmap
 
 ### 🌱 Level 1: Fundamentals
-- [ ] Introduction to the KDD Process
+- [ ] Introduction to the DataMining
+- [ ] Confusion Matrix
+- [ ] Decision Tree
 - [ ] Data Cleaning & Preprocessing (Pandas/NumPy)
 - [ ] Feature Selection & Extraction (PCA)
 
