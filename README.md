@@ -13,6 +13,7 @@ This repository documents my research and coursework for the Data Mining curricu
 - [ ] Introduction to the DataMining
 - [ ] Confusion Matrix
 - [ ] Decision Tree
+- [ ] Most Important Plots in Data Science
 - [ ] Data Cleaning & Preprocessing (Pandas/NumPy)
 - [ ] Feature Selection & Extraction (PCA)
 
