@@ -2,7 +2,7 @@
 
 **Author:** Md Saib Hossain  
 **Institution:** United International University (UIU)  
-**Focus:** Data Mining, AI, and Medical Imaging Research
+**Focus:** Generative AI , and AI in healthcare 
 
 ## 📖 About This Repository
 This repository documents my research and coursework for the Data Mining curriculum at UIU. It is designed to be a comprehensive guide, taking the reader from **beginner concepts** (preprocessing, statistics) to **advanced research applications** (Radiomics, Deep Learning, and Transformers).
