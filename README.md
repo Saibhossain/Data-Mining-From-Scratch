@@ -18,7 +18,7 @@ This repository documents my research and coursework for the Data Mining curricu
 - [ ] Feature Selection & Extraction (PCA)
 
 ### 🌿 Level 2: Classical Mining
-- [ ] Association Rule Mining (Apriori)
+- [ ] Build_ML_model
 - [ ] Classification Algorithms (SVM, Decision Trees)
 - [ ] Clustering Analysis (K-Means, DBSCAN)
 
