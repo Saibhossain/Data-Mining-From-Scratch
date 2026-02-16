@@ -19,6 +19,7 @@ This repository documents my research and coursework for the Data Mining curricu
 
 ### 🌿 Level 2: Classical Mining
 - [ ] Build_ML_model
+- [ ] L
 - [ ] Classification Algorithms (SVM, Decision Trees)
 - [ ] Clustering Analysis (K-Means, DBSCAN)
 
